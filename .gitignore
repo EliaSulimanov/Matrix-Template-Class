@@ -1,0 +1,6 @@
+
+*.db
+*.ipch
+*.json
+*.sqlite
+.vs/Matrix-Template-Class/v16/.suo
